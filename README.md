@@ -1,0 +1,1 @@
+- In this project, I implemented the Quick Sort, Merge Sort, and Insertion Sort Algorithms. 
