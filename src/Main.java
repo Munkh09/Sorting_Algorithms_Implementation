@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Problem1 {
+public class Main {
     public static void main(String[] args) {
         //Creating the arrays
         int[] arrayTenth1 = new int[10];
